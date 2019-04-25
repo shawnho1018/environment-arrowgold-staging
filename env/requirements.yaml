@@ -7,6 +7,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: fsi-se-meeting-python
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: react-quickstart
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
